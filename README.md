@@ -15,6 +15,14 @@ git clone https://github.com/ahmada3mar/TMA271.git
 ```bash
 cd .\TMA271
 ```
+
+### Before starting, install the requirements by run:
+```bash
+pip install -r .\requirements.txt
+```
+
+#### start the project 
+
 ```cmd
 python .\main.py
 ```
